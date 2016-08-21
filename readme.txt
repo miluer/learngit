@@ -1,4 +1,4 @@
 Hello world!
-this is my git verson control system
+git is verson control system
 git is free software
 
